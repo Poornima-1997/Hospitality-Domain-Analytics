@@ -3,3 +3,9 @@ The challenge was to create a dash board for Revenue management team which helps
 This project started with detail understanding about the problem statement and hospitality domain. How key performance indicators for hospitality plays a key role in understanding key insights. You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 Create the metrics according to the metric list. Create a dashboard according to the mock-up provided by stakeholders. Create relevant insights that are not provided in the metric list/mock-up dashboard.
  
+AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+-AtliQ Bay has the highest occupancy of 66%
+-Week 24 recorded the highest revenue among all, which is 139.6 Million
+-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+-AtliQ lost around 298 Million in cancellation
+-Elite type rooms has the most booking and as well higher cancellation rate
